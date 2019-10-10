@@ -1,0 +1,7 @@
+﻿  source.cpp
+C:\Users\bilal\source\repos\Stack\Stack\delimeter_checker.h(32,33): warning C4018: '>': signed/unsigned mismatch
+C:\Users\bilal\source\repos\Stack\Stack\delimeter_checker.h(134,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bilal\source\repos\Stack\Stack\XML_data.h(91,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bilal\source\repos\Stack\Stack\XML_data.h(128,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bilal\source\repos\Stack\Stack\XML_data.h(161,24): warning C4018: '<': signed/unsigned mismatch
+  Stack.vcxproj -> C:\Users\bilal\source\repos\Stack\Debug\Stack.exe
